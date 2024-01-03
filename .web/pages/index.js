@@ -10,7 +10,7 @@ import NextHead from "next/head"
 
 
 
-export function Simplegrid_ced220ebb8310dbed5d49eaa22bf5ca6 () {
+export function Simplegrid_492c35dbcff790b6e4981bb3bd79d7a3 () {
 
 
   return (
@@ -163,7 +163,7 @@ export default function Component() {
   {`* Los regalos son sorpresa, permanecerán ocultos hasta el día de la su publicación. No olvides pasarte por aqupi cada día para descubrir un nuevo sorteo.`}
 </Text>
 </VStack>
-  <Simplegrid_ced220ebb8310dbed5d49eaa22bf5ca6/>
+  <Simplegrid_492c35dbcff790b6e4981bb3bd79d7a3/>
   <Script src={`/js/countdown.js`} strategy={`afterInteractive`}/>
 </VStack>
   <VStack sx={{"alignItems": "center", "paddingX": "2em", "width": "100%", "maxWidth": "1000PX"}}>
